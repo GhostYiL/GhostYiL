@@ -2,29 +2,18 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="250" src="https://i.postimg.cc/1386zjY7/Tiny-Bunny.jpg"  />
+<h4 align="left">🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄</h4>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostYiL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostYiL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=default&hide_border=false&custom_title=Preferred%20Languages" height="150" alt="languages graph"  />
+<img align="left" height="200" src="https://i.postimg.cc/1386zjY7/Tiny-Bunny.jpg"  />
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostYiL&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostYiL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=ocean_dark&hide_border=true&custom_title=Preferred%20Languages" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GhostYiL/GhostYiL/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -35,15 +24,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
 </div>
 
 ###
 
-<br clear="both">
+<h4 align="center">🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄🌨🎄🎄❄⛄</h4>
 
-<p align="left">꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋</p>
+###
+
+<img src="https://raw.githubusercontent.com/GhostYiL/GhostYiL/output/snake.svg" alt="Snake animation" />
 
 ###
